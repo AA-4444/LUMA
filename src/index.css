@@ -793,3 +793,8 @@ nav {
     padding-bottom: 0.9rem;
   }
 }
+.footer-social-arrow {
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: normal;
+  line-height: 1;
+}

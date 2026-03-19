@@ -108,23 +108,23 @@ export default function FooterShiftSection() {
             <div className="footer-socials">
               <div className="footer-social-item -h6 -m-m">
                 <span>Whatsapp</span>
-                <span>↗</span>
+                 <span className="footer-social-arrow">{'\u2197\uFE0E'}</span>
               </div>
               <div className="footer-social-item -h6 -m-m">
                 <span>X</span>
-                <span>↗</span>
+                 <span className="footer-social-arrow">{'\u2197\uFE0E'}</span>
               </div>
               <div className="footer-social-item -h6 -m-m">
                 <span>LinkedIn</span>
-                <span>↗</span>
+                <span className="footer-social-arrow">{'\u2197\uFE0E'}</span>
               </div>
               <div className="footer-social-item -h6 -m-m">
                 <span>Instagram</span>
-                <span>↗</span>
+                <span className="footer-social-arrow">{'\u2197\uFE0E'}</span>
               </div>
               <div className="footer-social-item -h6 -m-m">
                 <span>Email</span>
-                <span>↗</span>
+               <span className="footer-social-arrow">{'\u2197\uFE0E'}</span>
               </div>
             </div>
           </div>
